@@ -1,6 +1,6 @@
 # Dummy SQL Databases
 
-This is a collection of dummy SQLite3 databases, for learning and practicing SQL querying, generated with the VS Code extension **Generate Data** by Markus Köppen (@mkoeppen). Find it [here](https://marketplace.visualstudio.com/items?itemName=mkoeppen.generate-data) or use the VS Code extension ID <kbd>mkoeppen.generate-data</kbd>.
+This is a collection of dummy SQLite3 databases, for learning and practicing SQL querying, generated with the VS Code extension **Generate Data** by Markus Köppen (**@mkoeppen**). Find it [here](https://marketplace.visualstudio.com/items?itemName=mkoeppen.generate-data) or use the VS Code extension ID <kbd>mkoeppen.generate-data</kbd>.
 
 They are generated with the Python SQLite3 module and you will find the data in the _Data_ folder, and the code for generation in the _Generated_ folder.
 
